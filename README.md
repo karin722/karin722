@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## karin722
-矢澤にこ×二年生組(特に園田海未)が好き
+モタク
 
 ![](https://img.shields.io/badge/%E4%BB%8A%E5%B9%B4%E3%81%AF-%E7%94%B3%E5%B9%B4-brightgreen.svg)
