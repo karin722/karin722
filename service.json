@@ -1,0 +1,8 @@
+{
+    "servers": [
+        {
+            "name":"honoka",
+            "address": "honoka.ivtune.net"
+        }
+    ]
+}
